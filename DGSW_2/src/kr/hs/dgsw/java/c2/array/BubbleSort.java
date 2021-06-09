@@ -6,7 +6,7 @@ public class BubbleSort extends Sort {
 	public void sort() {
 		for (int i = 0; i < array.length; i++) {
 			for (int j = i + 1; j < array.length; i++) {
-				if 
+				// if 
 			}
 		}
 	}
