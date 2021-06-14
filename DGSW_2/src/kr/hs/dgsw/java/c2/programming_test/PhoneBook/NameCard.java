@@ -1,4 +1,4 @@
-package kr.hs.dgsw.java.c2.programming_test;
+package kr.hs.dgsw.java.c2.programming_test.PhoneBook;
 
 public class NameCard {
 	/**
